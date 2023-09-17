@@ -6,6 +6,6 @@ export const content = defineMessages({
   destinationMessage: {
     id: `${destinationScope}.destinationMessage`,
     defaultMessage:
-      "I am going to {selectedCountry} in {selectedContinentName}!",
+      "You're travelling to {selectedCountry} in the continent {selectedContinentName}.",
   },
 });

@@ -46,4 +46,4 @@ REM:
 I would usually use REM instead of px - only reason I haven't is I'm focusing on functionality given the timeframe. Under actual working conditions I would know the root font size and would be using REM.
 
 Final words:
-Still not completely done - a bit buggy but it's a quick job so hopefully shows enough!
+Still not completely done - a bit buggy and the colors are not 100% there but it's a quick job so hopefully shows enough!
