@@ -37,9 +37,13 @@ Tests:
 Ideally I would want to write up some unit tests first but I don't think I'm going to have time! Examples of tests I might write would be to test that the reponses from the API calls are working - I currently work with ducks/sagas to configure our Redux store, and then use Selectors to grab the data I want, so my unit tests are for testing the Selectors are doing the right thing. If I had more time I would read through the Jest docs and learn how to test fetch APIs that way.
 
 Validation:
+Didn't get to this - would do it by checking if both dropdowns had a value - if so, show messgae, if not, show error.
 
 Tick icon:
 Bit of a hacky solution potentially haha
 
 REM:
 I would usually use REM instead of px - only reason I haven't is I'm focusing on functionality given the timeframe. Under actual working conditions I would know the root font size and would be using REM.
+
+Final words:
+Still not completely done - a bit buggy but it's a quick job so hopefully shows enough!
