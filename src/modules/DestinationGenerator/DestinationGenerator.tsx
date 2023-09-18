@@ -157,7 +157,6 @@ const MessageContainer = styled.div`
   margin-left: 200px;
   margin-top: 31px;
   width: 430px;
-  height: 99px;
   flex-shrink: 0;
   border-radius: 10px;
   background: #fff;

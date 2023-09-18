@@ -44,6 +44,7 @@ const SelectComponent = styled.select<{
   size: number;
 }>`
   width: 370px;
+  min-height: 54px;
   height: ${(props) => props.size * 54}px;
   top: 22px;
   border-radius: 10px;
